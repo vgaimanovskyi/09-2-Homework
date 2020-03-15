@@ -110,6 +110,7 @@ h1, h2 {
     box-sizing: border-box;
 }
 .mainer span {
+    display: block;
     font-size: 20px;
     color: #b4b4b4;
     font-family: "Proxima Nova Regular", sans-serif;
